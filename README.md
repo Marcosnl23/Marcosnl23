@@ -18,11 +18,4 @@ Soy un apasionado de la tecnología en **desarrollo web y móvil**. Me encanta c
 - React.js 
 
 ### **DevOps**
-- Docker | GitHub Actions | Firebase   
----
-
-## 📌 Proyectos destacados
-
-### 🛍️ **Tienda de Ropa (React Native + Spring Boot)**
-Aplicación de e-commerce con autenticación JWT, gestión de productos y carrito de compras.  
-🔗 [Repositorio](https://github.com/Marcosnl23/ProyectoFCT.git)  
+- Docker | GitHub Actions | Firebase    
