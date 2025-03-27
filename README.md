@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]  
+# 👋 ¡Hola! Soy Marcos Navidad 
 
 💻 Desarrollador Full Stack 
 
@@ -25,4 +25,4 @@ Soy un apasionado de la tecnología en **desarrollo web y móvil**. Me encanta c
 
 ### 🛍️ **Tienda de Ropa (React Native + Spring Boot)**
 Aplicación de e-commerce con autenticación JWT, gestión de productos y carrito de compras.  
-🔗 [Repositorio](https://github.com/tu-usuario/tienda-ropa)  
+🔗 [Repositorio](https://github.com/Marcosnl23/ProyectoFCT.git)  
